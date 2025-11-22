@@ -52,3 +52,4 @@ This file defines a default structure for the autobiography.
 <!-- TODO: Add explicit mapping rules from domains/life_stage → default chapter. -->
 
 
+

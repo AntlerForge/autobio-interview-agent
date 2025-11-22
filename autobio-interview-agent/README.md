@@ -84,3 +84,4 @@ The system is intended to support four conversational “modes”:
 <!-- TODO: Add examples of a full session (raw + structured) and a sample timeline snippet. -->
 
 
+
