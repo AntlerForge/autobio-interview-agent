@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AutobiographicalEvent",
+  "description": "Structured representation of a single life event or story mentioned in an interview session.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "Unique identifier for the event, e.g. 'ev_2025_001'.",
+      "type": "string"
+    },
+    "title": {
+      "description": "Short, descriptive title for the event.",
+      "type": "string"
+    },
+    "time_range": {
+      "description": "Approximate time span of the event.",
+      "type": "object",
+      "properties": {
+        "start_year": { "type": ["integer", "null"] },
+        "end_year": { "type": ["integer", "null"] },
+        "specific_date": {
+          "type": ["string", "null"],
+          "description": "Optional ISO date if relevant."
+        }
+      },
+      "required": []
+    },
+    "life_stage": {
+      "description": "Broad life stage, e.g. 'childhood', 'school', 'university', 'early work', 'mid-career', 'later life'.",
+      "type": ["string", "null"]
+    },
+    "location": {
+      "description": "Main place or places where this event occurred.",
+      "type": ["string", "null"]
+    },
+    "people": {
+      "description": "Key people involved in or affected by this event.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name_or_role": { "type": "string" },
+          "relationship": { "type": ["string", "null"] }
+        },
+        "required": ["name_or_role"]
+      }
+    },
+    "domains": {
+      "description": "Tags describing the domain(s) this event touches, e.g. ['family', 'education', 'work', 'health', 'hobbies'].",
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "emotional_tone": {
+      "description": "High-level emotional tone, e.g. 'positive', 'mixed', 'difficult', 'neutral'.",
+      "type": ["string", "null"]
+    },
+    "significance": {
+      "description": "Why this event matters or stands out, in Tony's own terms as much as possible.",
+      "type": ["string", "null"]
+    },
+    "description": {
+      "description": "Short narrative description of what happened.",
+      "type": "string"
+    },
+    "source_session_id": {
+      "description": "Identifier of the interview session this event came from.",
+      "type": ["string", "null"]
+    },
+    "notes": {
+      "description": "Any extra notes or uncertainties.",
+      "type": ["string", "null"]
+    }
+  },
+  "required": ["id", "title", "description"]
+}
+
+

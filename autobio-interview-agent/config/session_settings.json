@@ -1,0 +1,12 @@
+{
+  "default_session_length_minutes": 45,
+  "max_questions_per_session": 15,
+  "target_events_per_session": 3,
+  "allow_mid_session_summarise": true,
+  "max_followups_per_story": 4,
+  "recap_required": true,
+  "default_focus": "flexible", 
+  "notes": "Tune these settings experimentally based on how the sessions feel for Tony."
+}
+
+

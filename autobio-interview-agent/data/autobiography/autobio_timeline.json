@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "last_updated": null,
+  "events": [
+    /* 
+      This file will contain a merged, deduplicated list of autobiographical events.
+      Each event should conform to `config/interview_schema.json`.
+
+      Example (illustrative only, feel free to remove once real data exists):
+      {
+        "id": "ev_2025_001",
+        "title": "Example placeholder event",
+        "time_range": { "start_year": 2000, "end_year": 2000, "specific_date": null },
+        "life_stage": "example",
+        "location": "Exampleville",
+        "people": [{ "name_or_role": "Example person", "relationship": "friend" }],
+        "domains": ["example"],
+        "emotional_tone": "neutral",
+        "significance": "Shows how the schema is used.",
+        "description": "This is only a placeholder. Real events will be extracted from sessions.",
+        "source_session_id": null,
+        "notes": "Delete this once you have actual events."
+      }
+    */
+  ]
+}
+
+
