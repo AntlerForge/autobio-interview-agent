@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ev_2025_0006",
+    "title": "Diane’s early life, work, and character",
+    "time_range": {
+      "start_year": 1942,
+      "end_year": 1964,
+      "specific_date": null
+    },
+    "life_stage": "pre-children",
+    "location": "Willesden, London, UK (and later Feltham)",
+    "people": [
+      { "name_or_role": "Diane Barfoot (née Burrows)", "relationship": "mother" },
+      { "name_or_role": "Arthur Burrows", "relationship": "brother" },
+      { "name_or_role": "Lynne", "relationship": "niece (Arthur's daughter)" },
+      { "name_or_role": "Ron (James) Barfoot", "relationship": "future husband" },
+      { "name_or_role": "Burrows siblings", "relationship": "siblings" }
+    ],
+    "domains": ["family", "work", "identity", "youth culture"],
+    "emotional_tone": "positive",
+    "significance": "Shows Diane as a warm, agreeable, independent young woman who left school to support her family, became a hairdresser, and enjoyed jazz clubs and social life, while caring for her niece who went on to be BA's first female pilot.",
+    "description": "Diane was born in Willesden, London in 1942, the youngest of four siblings (two brothers and one sister). She left school early to help bring in income and trained as a hairdresser through an apprenticeship. Some of her youth was spent looking after Arthur's daughter Lynne, who would later become British Airways' first female pilot. Diane enjoyed going to jazz clubs, wearing skinny jeans, and even once attended a party where the Kray twins were present. Throughout, she is remembered as a very agreeable person.",
+    "source_session_id": "session_20251124_2144",
+    "notes": "Further detail about her family of origin, parents, and specific salon/apprenticeship settings could be added later."
+  },
+  {
+    "id": "ev_2025_0007",
+    "title": "How Diane and Ron met and formed a young family",
+    "time_range": {
+      "start_year": 1960,
+      "end_year": 1965,
+      "specific_date": null
+    },
+    "life_stage": "early adulthood",
+    "location": "London and Feltham, UK",
+    "people": [
+      { "name_or_role": "Diane Burrows", "relationship": "mother" },
+      { "name_or_role": "Ron (James) Barfoot", "relationship": "father" },
+      { "name_or_role": "Arthur Burrows", "relationship": "brother-in-law / friend" },
+      { "name_or_role": "David Barfoot", "relationship": "first child" }
+    ],
+    "domains": ["family", "relationships", "work"],
+    "emotional_tone": "positive",
+    "significance": "Introduces Tony's parents as a couple, their meeting through Arthur, their marriage, and the start of the family in Feltham with the birth of David.",
+    "description": "Diane's brother Arthur worked with Ron in a sheet metal factory, and they became friends. Through Arthur, Diane and Ron met and started going out. In one early exchange Ron asked Diane, 'Do you drink?' and she replied, 'Yes, but not like a fish,' capturing her easy humour and lightness. They married in 1964, moved to Feltham, and had their first child, Dave, in 1965, setting the stage for the family home where Tony would later be born.",
+    "source_session_id": "session_20251124_2144",
+    "notes": "Exact dates of their first meeting and wedding day could be added in future sessions."
+  },
+  {
+    "id": "ev_2025_0008",
+    "title": "Ron’s early life, skills, and path into work",
+    "time_range": {
+      "start_year": 1937,
+      "end_year": 1960,
+      "specific_date": null
+    },
+    "life_stage": "pre-children",
+    "location": "Isleworth, Greater London, UK",
+    "people": [
+      { "name_or_role": "Ron (James) Barfoot", "relationship": "father" },
+      { "name_or_role": "Diane (sister)", "relationship": "paternal aunt" },
+      { "name_or_role": "Ron’s father", "relationship": "grandfather, builder" },
+      { "name_or_role": "Ron’s mother", "relationship": "grandmother" }
+    ],
+    "domains": ["family", "work", "skills", "national service"],
+    "emotional_tone": "positive",
+    "significance": "Shows Ron as a practical, skilled, and agreeable young man shaped by a builder father, an interest in cars, and national service before settling into sheet metal work.",
+    "description": "Ron was born in Isleworth, Greater London, in 1937 and grew up with his parents and a younger sister, also called Diane. His father worked as a general builder and passed on practical skills. From a young age Ron was keen on cars, buying and repairing his own. After the war he did national service, reaching the rank of corporal. On returning, he was able to choose his job at the job centre and became a sheet metal worker, where he would meet Arthur and, through him, Diane. Tony remembers him as a very agreeable person.",
+    "source_session_id": "session_20251124_2144",
+    "notes": "Later sessions could add more colour about his national service and early car projects."
+  },
+  {
+    "id": "ev_2025_0009",
+    "title": "Make-do first home and conflict-light family ethos",
+    "time_range": {
+      "start_year": 1964,
+      "end_year": 1970,
+      "specific_date": null
+    },
+    "life_stage": "early family life",
+    "location": "First house in Feltham, UK",
+    "people": [
+      { "name_or_role": "Diane Barfoot", "relationship": "mother" },
+      { "name_or_role": "Ron (James) Barfoot", "relationship": "father" },
+      { "name_or_role": "David Barfoot", "relationship": "older brother" },
+      { "name_or_role": "Tony", "relationship": "self (later child in this home)" }
+    ],
+    "domains": ["family", "home", "money", "values"],
+    "emotional_tone": "positive",
+    "significance": "Captures the frugal, inventive way Tony's parents set up their first home and the strong family value that you can move forward without conflict or judgment.",
+    "description": "When Diane and Ron got their first house in Feltham, they pushed themselves financially and adopted a strong make-do attitude. At one point they had one TV with a picture but no sound and another with sound but no picture, effectively combining them. They used tea crates as furniture, and many items in the house were made by Ron himself. They rarely argued, which created a powerful sense for Tony that progress and change did not require conflict. They respected what other people wanted to do and were non‑judgemental about choices, conveying that there was no single right path one 'should' follow.",
+    "source_session_id": "session_20251124_2144",
+    "notes": "This event connects strongly to Tony's later sense of autonomy, non-judgement, and resourcefulness."
+  }
+]
+
+

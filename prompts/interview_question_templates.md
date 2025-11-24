@@ -1,7 +1,6 @@
-# Interview Question Templates (Local Project Library)
+# Interview Question Templates
 
-This file provides reusable question patterns. The assistant should adapt them to context
-and to the current session focus.
+This file provides reusable question patterns. The assistant should adapt them to context.
 
 ## 1. Warm-up / Orientation
 
@@ -75,9 +74,3 @@ Use these when a story is interesting and needs structure:
 - “What happened, step by step?”
 - “How did you feel at the time?”
 - “Looking back now, what does this event mean to you?”
-
-<!-- TODO: Later, add themed sets (e.g. “specific job”, “specific relationship”, “specific place”). -->
-
-
-
-

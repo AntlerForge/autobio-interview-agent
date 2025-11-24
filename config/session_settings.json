@@ -1,0 +1,6 @@
+{
+    "default_session_length_minutes": 45,
+    "max_questions_per_session": 15,
+    "target_events_per_session": 3,
+    "allow_mid_session_summarise": true
+  }

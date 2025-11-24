@@ -1,4 +1,4 @@
-# Biography Outline Template (Local Project Version)
+# Biography Outline Template
 
 This file defines a default structure for the autobiography.
 
@@ -48,9 +48,4 @@ This file defines a default structure for the autobiography.
 
 - Whenever the outline changes significantly:
   - Show a bullet-point list of chapters and which events moved where.
-
-<!-- TODO: Add explicit mapping rules from domains/life_stage → default chapter. -->
-
-
-
-
+  
